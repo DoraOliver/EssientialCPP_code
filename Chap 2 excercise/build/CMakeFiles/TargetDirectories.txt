@@ -1,0 +1,5 @@
+/home/doraoliver/CPP_study/Essential CPP/Chap 2 excercise/build/CMakeFiles/rebuild_cache.dir
+/home/doraoliver/CPP_study/Essential CPP/Chap 2 excercise/build/CMakeFiles/edit_cache.dir
+/home/doraoliver/CPP_study/Essential CPP/Chap 2 excercise/build/CMakeFiles/2.4.dir
+/home/doraoliver/CPP_study/Essential CPP/Chap 2 excercise/build/CMakeFiles/2.3.dir
+/home/doraoliver/CPP_study/Essential CPP/Chap 2 excercise/build/CMakeFiles/2.2.dir
